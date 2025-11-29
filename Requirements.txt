@@ -8,3 +8,4 @@ wordcloud
 matplotlib
 tweepy
 torch
+python-dotenv
